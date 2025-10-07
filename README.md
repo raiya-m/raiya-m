@@ -1,8 +1,27 @@
-## :wave: Hello, World! I am Raiya. 
+<b> hello world, i'm raiya! </b> <br> 
+· · · <br>
+```computer engineering``` student @    ```university of waterloo``` <br>
+seeking ```summer 2026``` internship opportunities
 
-- Computer Engineering Student @ University of Waterloo <br>
-- I'm passionate about building full-stack applications, working with embedded systems, and human-centered design.
+<b> currently: </b>
+- <b>software engineering intern</b> @ [rbc](https://www.rbcwealthmanagement.com) <br>
+  global asset management | fixed income performance team
 
-:rocket: raiyaminhas.com <br>
-:e-mail: raiya [dot] minhas [at] uwaterloo [dot] ca <br>
-:link: linkedin.com/in/raiyaminhas/
+- <b> machine learning engineer</b> @ [WAT.ai](https://watai.ca) (waterloo artificial intelligence institute) <br>
+  reinforcement learning for autonomous drone swarms 
+
+<b> previously:</b> <br>
+- ```winter 2025```: data infra + healthcare ops automation @ [assistIQ](https://assistiq.ai) (11.5M Series A)
+- ```summer 2024```: design engineering + product strategy @ [sceneflow](https://sceneflow.com) (iot for smart home)
+- founder + president @ [PERIOD toronto](https://period.org) (nonprofit advancing menstrual equity and literacy)
+
+<b> technical skills </b>
+- languages: `python` `c++` `javascript` `typescript` `matlab` `vhdl`
+- web dev: `html & css` `react` `next.js` `tailwind css` `flask` `node.js`
+- data science & visualization: `pandas` `matplotlib` `plotly` `dash` `seaborn` `chart.js` `looker`  
+- cloud & database: `google cloud platform` `mongodb` `oracle` `sql server` `postgres`
+
+<b> find me elsewhere on the internet! </b> <br>
+[raiyaminhas.com](https://www.raiyaminhas.com) (my personal portfolio) <br>
+[email me!](mailto:raiya.minhas@uwaterloo.ca) → raiya [dot] minhas [at] uwaterloo [dot] ca <br>
+[my linkedin](https://www.linkedin.com/in/raiya-minhas/) <br>
